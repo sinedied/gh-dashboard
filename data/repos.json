@@ -1,0 +1,799 @@
+[
+  {
+    "name": "microsoft/generative-ai-with-javascript",
+    "description": "Code samples and resources to learn Generative AI with JavaScript",
+    "topics": [
+      "ai",
+      "generative-ai",
+      "javascript",
+      "llm",
+      "samples",
+      "training"
+    ],
+    "languages": [],
+    "stars": 118,
+    "forks": 19,
+    "openIssues": 0,
+    "openPullRequests": 5,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 1
+    },
+    "lastCommitDate": "2025-02-14T19:11:30Z",
+    "packageVersions": {
+      "LangChain.js": "0.2"
+    }
+  },
+  {
+    "name": "Azure-Samples/serverless-chat-langchainjs",
+    "description": "Build your own serverless AI Chat with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure",
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates",
+      "azure",
+      "azure-functions",
+      "chatbot",
+      "generative-ai",
+      "javascript",
+      "langchain-js",
+      "mongodb",
+      "rag",
+      "retrieval-augmented-generation",
+      "serverless",
+      "typescript"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript",
+      "HTML",
+      "JavaScript"
+    ],
+    "stars": 782,
+    "forks": 417,
+    "openIssues": 3,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 3,
+      "codeScanning": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-01-21T15:46:19Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Functions": "4",
+      "LangChain.js": "0.3",
+      "Lit": "3"
+    }
+  },
+  {
+    "name": "Azure-Samples/langchainjs-quickstart-demo",
+    "description": "Build a generative AI application using LangChain.js, from local to Azure",
+    "topics": [
+      "azure",
+      "azure-ai-search",
+      "azure-functions",
+      "azure-functions-v4",
+      "javascript",
+      "langchain-js",
+      "openai",
+      "quickstart",
+      "retrieval-augmented-generation"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "stars": 60,
+    "forks": 26,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0
+    },
+    "lastCommitDate": "2025-01-10T14:11:35Z",
+    "packageVersions": {
+      "Functions": "4",
+      "LangChain.js": "0.3"
+    }
+  },
+  {
+    "name": "Azure-Samples/deepseek-azure-javascript",
+    "description": "Demonstrate how to use DeepSeek-R1 models GitHub Models, Azure or Ollama",
+    "topics": [
+      "ai-samples",
+      "azure",
+      "azure-ai",
+      "deepseek-r1",
+      "generative-ai",
+      "javascript",
+      "langchain-js",
+      "llm",
+      "ollama",
+      "openai",
+      "sample",
+      "typescript"
+    ],
+    "languages": [],
+    "stars": 34,
+    "forks": 9,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-13T09:15:09Z",
+    "packageVersions": {
+      "LangChain.js": "0.3"
+    }
+  },
+  {
+    "name": "Azure-Samples/deepseek-js",
+    "description": "DeepSeek-R1 JavaScript starter",
+    "topics": [
+      "ai-samples",
+      "azd-templates",
+      "azure",
+      "azure-ai",
+      "deepseek-r1",
+      "javascript",
+      "nodejs",
+      "typescript"
+    ],
+    "languages": [
+      "TypeScript",
+      "Bicep",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "stars": 5,
+    "forks": 0,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 2,
+      "codeScanning": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T15:06:06Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Lit": "3",
+      "Functions": "4"
+    }
+  },
+  {
+    "name": "Azure-Samples/azure-search-openai-javascript",
+    "description": "A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.",
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates",
+      "azure",
+      "azure-ai-search",
+      "azureopenai",
+      "javascript",
+      "langchain-js",
+      "langchain-typescript",
+      "openai",
+      "typechat",
+      "typescript"
+    ],
+    "languages": [
+      "TypeScript",
+      "Bicep",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "PowerShell",
+      "Dockerfile",
+      "Shell"
+    ],
+    "stars": 275,
+    "forks": 165,
+    "openIssues": 3,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 23,
+      "codeScanning": 10
+    },
+    "lastCommitDate": "2025-02-17T16:59:57Z",
+    "packageVersions": {
+      "Lit": "2",
+      "TypeScript": "5",
+      "React": "18",
+      "Fastify": "4",
+      "LangChain.js": "0.0.152"
+    }
+  },
+  {
+    "name": "Azure-Samples/azure-openai-keyless-js",
+    "description": "Example Azure OpenAI deployment and RBAC role for your user account for keyless access",
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates",
+      "azure",
+      "bicep",
+      "infrastructure",
+      "javascript",
+      "keyless",
+      "nodejs",
+      "openai",
+      "secure",
+      "template"
+    ],
+    "languages": [
+      "Bicep",
+      "JavaScript"
+    ],
+    "stars": 7,
+    "forks": 4,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 0,
+      "codeScanning": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2024-12-02T15:01:42Z",
+    "packageVersions": {}
+  },
+  {
+    "name": "Azure-Samples/copilot-openai-todo",
+    "description": "Discover how to use GitHub Copilot to quickly build a Node.js application with OpenAI and Azure",
+    "topics": [
+      "angular",
+      "azure",
+      "copilot",
+      "cosmosdb",
+      "express",
+      "generative-ai",
+      "javascript",
+      "nodejs",
+      "openai",
+      "todolist",
+      "typechat",
+      "typescript"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript",
+      "JavaScript",
+      "Dockerfile",
+      "HTML",
+      "CSS"
+    ],
+    "stars": 9,
+    "forks": 9,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 1,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T14:28:10Z",
+    "packageVersions": {
+      "Angular": "19",
+      "TypeScript": "5"
+    }
+  },
+  {
+    "name": "Azure-Samples/github-models-javascript-playground",
+    "description": "Generative AI playground using GitHub Models, OpenAI API and JavaScript. Try AI models in your browser!",
+    "topics": [
+      "generative-ai",
+      "javascript",
+      "llm",
+      "openai",
+      "playground",
+      "tutorial"
+    ],
+    "languages": [
+      "Jupyter Notebook"
+    ],
+    "stars": 6,
+    "forks": 2,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 1,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T14:52:05Z",
+    "packageVersions": {}
+  },
+  {
+    "name": "Azure-Samples/ollama-javascript-playground",
+    "description": "Generative AI playground using Ollama, OpenAI API and JavaScript. Try AI models in your browser!",
+    "topics": [
+      "generative-ai",
+      "javascript",
+      "llm",
+      "ollama",
+      "openai",
+      "phi3",
+      "playground"
+    ],
+    "languages": [
+      "Jupyter Notebook"
+    ],
+    "stars": 20,
+    "forks": 3,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 1
+    },
+    "lastCommitDate": "2025-02-17T14:53:19Z",
+    "packageVersions": {}
+  },
+  {
+    "name": "Azure-Samples/openai-langchainjs",
+    "description": "Demonstrates how to use Azure OpenAI with LangChain.js",
+    "topics": [
+      "ai",
+      "azure",
+      "generative-ai",
+      "langchain-js",
+      "llm",
+      "openai",
+      "sample",
+      "sdk"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript"
+    ],
+    "stars": 7,
+    "forks": 2,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 0
+    },
+    "lastCommitDate": "2025-02-17T14:47:09Z",
+    "packageVersions": {
+      "TypeScript": "5"
+    }
+  },
+  {
+    "name": "Azure-Samples/openai-secure-ui-js",
+    "description": "Reusable OpenAI secure UI and infrastructure for AI Chat with Azure",
+    "topics": [
+      "ai-azd-templates",
+      "azd",
+      "azd-templates",
+      "azure",
+      "chatbot",
+      "generative-ai",
+      "javascript",
+      "nodejs",
+      "openai",
+      "secure",
+      "serverless",
+      "template",
+      "typescript",
+      "ui",
+      "web-components"
+    ],
+    "languages": [
+      "TypeScript",
+      "Bicep",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Svelte",
+      "Vue"
+    ],
+    "stars": 9,
+    "forks": 13,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 2,
+      "codeScanning": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T15:43:31Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Angular": "19",
+      "Lit": "3",
+      "Svelte": "5",
+      "React": "18",
+      "Vue": "3",
+      "Functions": "4"
+    }
+  },
+  {
+    "name": "Azure-Samples/genai-gateway-apim",
+    "description": "Azure API Management (APIM) - Azure OpenAI Sample (Node.js)",
+    "topics": [],
+    "languages": [
+      "Bicep",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 27,
+    "forks": 11,
+    "openIssues": 4,
+    "openPullRequests": 6,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 1
+    },
+    "lastCommitDate": "2024-12-09T13:44:51Z",
+    "packageVersions": {}
+  },
+  {
+    "name": "Azure-Samples/llama-index-javascript",
+    "description": "This sample shows how to quickly get started with LlamaIndex.ai on Azure 🚀",
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates",
+      "azure",
+      "azure-openai",
+      "docker",
+      "llama-index",
+      "llm",
+      "nextjs",
+      "openai"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript",
+      "CSS",
+      "JavaScript",
+      "Dockerfile"
+    ],
+    "stars": 49,
+    "forks": 24,
+    "openIssues": 2,
+    "openPullRequests": 7,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 12,
+      "codeScanning": 15
+    },
+    "lastCommitDate": "2025-01-21T23:59:51Z",
+    "packageVersions": {
+      "React": "18",
+      "TypeScript": "5"
+    }
+  },
+  {
+    "name": "Azure-Samples/azure-openai-assistant-javascript",
+    "description": "Serverless Azure OpenAI Assistant Quick Start Function Calling",
+    "topics": [
+      "ai-azd-templates",
+      "assistant",
+      "assistant-api",
+      "azd-templates",
+      "azure-openai",
+      "javascript"
+    ],
+    "languages": [
+      "Bicep",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Shell"
+    ],
+    "stars": 29,
+    "forks": 26,
+    "openIssues": 7,
+    "openPullRequests": 3,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 14,
+      "codeScanning": 7
+    },
+    "lastCommitDate": "2024-09-25T01:38:27Z",
+    "packageVersions": {
+      "Functions": "4"
+    }
+  },
+  {
+    "name": "Azure-Samples/llama-index-azure-code-interpreter",
+    "description": "Serverless RAG application with LlamaIndex and code interperter on Azure Container Apps",
+    "topics": [
+      "azure",
+      "code-interpreter",
+      "containers",
+      "function-calling",
+      "llamaindex",
+      "openai",
+      "serverless"
+    ],
+    "languages": [
+      "TypeScript",
+      "Bicep",
+      "CSS",
+      "JavaScript",
+      "Dockerfile"
+    ],
+    "stars": 10,
+    "forks": 3,
+    "openIssues": 0,
+    "openPullRequests": 2,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 7,
+      "codeScanning": 0
+    },
+    "lastCommitDate": "2025-01-21T22:10:19Z",
+    "packageVersions": {
+      "React": "18",
+      "TypeScript": "5"
+    }
+  },
+  {
+    "name": "Azure-Samples/azure-openai-rag-workshop",
+    "description": "Create your own ChatGPT with Retrieval-Augmented-Generation workshop",
+    "topics": [
+      "azd-templates",
+      "azure",
+      "chatgpt",
+      "fastify",
+      "langchain",
+      "nodejs",
+      "openai",
+      "rag",
+      "workshop"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript",
+      "Shell",
+      "Dockerfile",
+      "HTML",
+      "PowerShell"
+    ],
+    "stars": 117,
+    "forks": 371,
+    "openIssues": 1,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 8,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-11T09:47:21Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Fastify": "4",
+      "LangChain.js": "0.3",
+      "Lit": "3"
+    }
+  },
+  {
+    "name": "Azure-Samples/nodejs-microservices",
+    "description": "A sample application showing Node.js microservices usage with an Azure infrastructure",
+    "topics": [
+      "azure",
+      "containerapps",
+      "containers",
+      "docker",
+      "express",
+      "fastify",
+      "microservices",
+      "nestjs",
+      "nodejs",
+      "staticwebapp"
+    ],
+    "languages": [
+      "Shell",
+      "Bicep",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "Dockerfile"
+    ],
+    "stars": 28,
+    "forks": 21,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T14:03:25Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Fastify": "5"
+    }
+  },
+  {
+    "name": "Azure-Samples/copilot-nodejs-todo",
+    "description": "Discover how to use GitHub Copilot to quickly build a Node.js application with Azure Cosmos DB and App Service.",
+    "topics": [
+      "app-service",
+      "azure",
+      "copilot",
+      "cosmosdb",
+      "nodejs",
+      "tutorial",
+      "workshop"
+    ],
+    "languages": [
+      "TypeScript",
+      "Shell",
+      "HTML",
+      "CSS"
+    ],
+    "stars": 9,
+    "forks": 12,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 10,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2024-08-29T08:26:41Z",
+    "packageVersions": {
+      "Angular": "15",
+      "TypeScript": "4"
+    }
+  },
+  {
+    "name": "Azure-Samples/contoso-real-estate",
+    "description": "Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.",
+    "topics": [
+      "angular",
+      "architecture",
+      "azd-templates",
+      "azure",
+      "azureopenai",
+      "cloud",
+      "javascript",
+      "next",
+      "nodejs",
+      "playwright",
+      "rag",
+      "serverless",
+      "strapi",
+      "stripe"
+    ],
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "TypeScript",
+      "CSS",
+      "Bicep",
+      "SCSS",
+      "Dockerfile",
+      "Shell"
+    ],
+    "stars": 937,
+    "forks": 548,
+    "openIssues": 23,
+    "openPullRequests": 6,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 30,
+      "codeScanning": 3,
+      "secretScanning": 3
+    },
+    "lastCommitDate": "2024-11-24T16:09:40Z",
+    "packageVersions": {
+      "Angular": "16",
+      "TypeScript": "4",
+      "Functions": "1",
+      "React": "17",
+      "Fastify": "4"
+    }
+  },
+  {
+    "name": "Azure-Samples/azure-openai-chat-frontend",
+    "description": "The Chat App Protocol compliant user-interface building block, for your chat-gpt like RAG pattern applications built with Azure OpenAI and Azure AI Search.",
+    "topics": [
+      "ai-azd-templates",
+      "azd-templates",
+      "chatgpt",
+      "frontend",
+      "javascript",
+      "lit",
+      "nodejs",
+      "typescript",
+      "webcomponents"
+    ],
+    "languages": [
+      "TypeScript",
+      "Bicep",
+      "JavaScript",
+      "HTML",
+      "Shell"
+    ],
+    "stars": 50,
+    "forks": 32,
+    "openIssues": 6,
+    "openPullRequests": 7,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 8
+    },
+    "lastCommitDate": "2024-09-26T21:06:33Z",
+    "packageVersions": {
+      "Lit": "2",
+      "TypeScript": "5"
+    }
+  },
+  {
+    "name": "microsoft/moaw",
+    "description": "Grab-and-go resources to help you learn new skills, with all the tools you need to create, host and share your own workshop",
+    "topics": [
+      "javascript",
+      "microsoft",
+      "moaw",
+      "training",
+      "workshops"
+    ],
+    "languages": [
+      "Jupyter Notebook",
+      "TypeScript",
+      "SCSS",
+      "Bicep",
+      "Dockerfile",
+      "HTML",
+      "Shell",
+      "JavaScript"
+    ],
+    "stars": 114,
+    "forks": 94,
+    "openIssues": 4,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0,
+      "dependabot": 19,
+      "codeScanning": 0,
+      "secretScanning": 0
+    },
+    "lastCommitDate": "2025-02-17T15:10:36Z",
+    "packageVersions": {
+      "TypeScript": "5",
+      "Angular": "17"
+    }
+  },
+  {
+    "name": "sinedied/azure-checkin",
+    "description": "A streamlined onboarding experience with Azure Pass for your events",
+    "topics": [
+      "azure",
+      "events",
+      "pass",
+      "serverless",
+      "swa"
+    ],
+    "languages": [
+      "Bicep",
+      "TypeScript",
+      "JavaScript",
+      "SCSS",
+      "HTML",
+      "Dockerfile",
+      "Shell"
+    ],
+    "stars": 7,
+    "forks": 20,
+    "openIssues": 0,
+    "openPullRequests": 0,
+    "securityAlerts": {
+      "advisories": 0
+    },
+    "lastCommitDate": "2024-12-09T08:29:13Z",
+    "packageVersions": {
+      "Angular": "13",
+      "TypeScript": "4"
+    }
+  }
+]
